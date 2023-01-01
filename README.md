@@ -1,4 +1,4 @@
-<img src="https://github.com/unnecessarylibs/ImDragonsAPI/blob/main/img/logoAPI.png" alt="logo">
+<img src="https://github.com/unnecessarylibs/ImDragonsAPI/blob/main/img/ImDragonsAPI-logo.png" alt="logo">
 
 <p align="center">
   <a href="#about">About</a> •
