@@ -4,7 +4,7 @@ An OpenAPI created by Unnecessary Libraries that allows for indexing of a massiv
 # Background
 ImDragonAPI was created on Apr 24, 2021, as a Side Project from 
 
-<img src="" alt="logo">
+<img src="https://github.com/unnecessarylibs/ImDragonsAPI/blob/main/img/logoAPI.png" alt="logo">
 
 <p align="center">
    <a href="https://github.com/git/git-scm.com/blob/main/MIT-LICENSE.txt"><img alt="GitHub" src="https://img.shields.io/github/license/echogronkowski/imagine-dragons.js"></a>
