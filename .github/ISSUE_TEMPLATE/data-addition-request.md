@@ -1,17 +1,21 @@
 ---
 name: Data Addition Request
-about: Suggest an data adittion to our JSON Collection
+about: Suggest a change or addition to our JSON Collection
 title: ''
 labels: jsondata
 assignees: ''
 
 ---
 
-**What Data is being Added?**
-A clear and concise description of what the problem is. Ex. I'm always frustrated when [...]
+**What is being Added/Changed?**
+What data is being added to the JSON collection
 
 **Why is this Data important/necessary?**
-A clear and concise description of why the data must be added or reasons to why.
+Reason or Description on why the addition should be added/changed?
 
-**Make sure to provide a JSON file with ONLY the added Changes**
-Attach a JSON File to this Issue
+**Make sure to provide the JSON code you want Changed/Added**
+```json
+{
+"Title": "JSON Here"
+}
+```
