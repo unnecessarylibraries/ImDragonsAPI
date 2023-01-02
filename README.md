@@ -21,7 +21,7 @@ The API itself is constantly being added too. Sometimes Endpoints and routes cha
 
 Main Open-API Endpoint
 ```
-https://api.unnecessarylibraries.com/imdragons/data
+https://api.unnecessarylibraries.com/imdragons/
 ```
 
 ## Why?
