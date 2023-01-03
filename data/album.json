@@ -1,3 +1,72 @@
-{
-    "AlbumData": "Work in Progress"
-}
+ {
+      "title": "Night Visions",
+      "release_date": "2012-09-04",
+      "tracks": [
+        "Radioactive",
+        "Tiptoe",
+        "It's Time",
+        "Demons",
+        "On Top of the World",
+        "Amsterdam",
+        "Hear Me",
+        "Every Night",
+        "Bleeding Out",
+        "Nothing Left to Say",
+        "Rocks"
+      ]
+    },
+    {
+      "title": "Smoke + Mirrors",
+      "release_date": "2015-02-17",
+      "tracks": [
+        "Shots",
+        "Gold",
+        "Smoke and Mirrors",
+        "I'm So Sorry",
+        "I Bet My Life",
+        "Polaroid",
+        "Friction",
+        "It Comes Back to You",
+        "Dream",
+        "Trouble",
+        "Summer",
+        "Hopeless Opus",
+        "The Fall"
+      ]
+    },
+    {
+      "title": "Evolve",
+      "release_date": "2017-06-23",
+      "tracks": [
+        "I Don't Know Why",
+        "Whatever It Takes",
+        "Believer",
+        "Walking the Wire",
+        "Rise Up",
+        "I'll Make It Up to You",
+        "Yes No Maybe",
+        "Mouth of the River",
+        "Thunder",
+        "Start Over",
+        "Dancing In the Dark"
+      ]
+    },
+    {
+      "title": "Origins",
+      "release_date": "2018-11-09",
+      "tracks": [
+        "Natural",
+        "Boomerang",
+        "Machine",
+        "Cool Out",
+        "Bad Liar",
+        "West Coast",
+        "Zero",
+        "Bullet in a Gun",
+        "Digital",
+        "Only",
+        "Stuck",
+        "Love",
+        "Birds"
+      ]
+    }
