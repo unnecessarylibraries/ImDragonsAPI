@@ -22,7 +22,7 @@ This Section talks about how the API is Orgaznized, and Used. These details can 
 ImDragonsAPI is simple to use and has an easy-to-understand structure. The data is sorted by two different types of categories: "collections" and "individuals." A collection is where a lot of detailed JSON is sorted. Collections contain multiple data objects in one file. An example  of this would be the album collection. It contains every album the band has ever released and is very detailed. On the other hand, "individuals" are the opposite. They are single JSON files that contain only one or two objects. An example of an individual would be a song like "Thunder," and the second object would contain all the lyrics.
 
 ## Manipluating the API
-As of right now. The API only supports Indexing and sifting though the data. The API doesn't support no POST/requst at the moment and is quite simple as of now. Later features are stil being test and added but for now its a simple GET/requst that returns JSON objects. Those object can either be index manually by you if you like that custom method, or you can use a "Indexer". A indexer is a class that indexs the API for you and is supported though the API.
+As of right now. The API only supports Indexing and sifting though the data. The API doesn't support no **POST/request** at the moment and is quite simple as of now. Later features are still being tested on, But for now, its a simple **GET/request** that returns a JSON object. Those objects can either be indexed manually by you.(If you like the custom method) Or you can use a API supported "Indexer". A simple class function that does all the indexing for you.
 
 Main API Endpoint
 ```
