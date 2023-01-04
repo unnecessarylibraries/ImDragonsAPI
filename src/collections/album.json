@@ -1,0 +1,263 @@
+{
+    "ALBUM_LIST": [
+        {
+            "id": "0",
+            "title": "Night Visions",
+            "length": "42:10",
+            "recorded": "2009 - July 2012",
+            "label": [
+                "Interscope",
+                "KIDinaKORNER"
+            ],
+            "genre": [
+                "Alternative rock",
+                "Pop Rock",
+                "Synth Rock",
+                "Rock",
+                "Synth Pop",
+                "Pop"
+            ],
+            "released": "September 4, 2012",
+            "producers": [
+                "Alex Da Kid",
+                "Brandon Darner"
+            ],
+            "tracks": [
+                "Radioactive",
+                "Tiptoe",
+                "It's Time",
+                "Demons",
+                "On Top Of The World",
+                "Amsterdam",
+                "Hear Me",
+                "Every Night",
+                "Bleeding Out",
+                "Underdog",
+                "Nothing Left to Say"
+            ]
+        },
+        {
+            "id": "1",
+            "title": "Smoke + Mirrors",
+            "length": {
+                "Standard": "50:55",
+                "Deluxe": "83:00"
+            },
+            "recorded": "Battle Born Studios",
+            "label": [
+                "Interscope",
+                "KIDinaKORNER"
+            ],
+            "genre": [
+                "Alternative rock",
+                "Pop Rock",
+                "Synth Rock",
+                "Rock",
+                "Synth Pop",
+                "Pop"
+            ],
+            "released": "February 17, 2015",
+            "producers": [
+                "Alex Da Kid",
+                "Imagine Dragons"
+            ],
+            "tracks": [
+                "Shots",
+                "Gold",
+                "Smoke and Mirrors",
+                "I'm So Sorry",
+                "I Bet My Life",
+                "Polaroid",
+                "Friction",
+                "It Comes Back To You",
+                "Dream",
+                "Trouble",
+                "Summer",
+                "Hopeless Opus",
+                "The Fall"
+            ]
+        },
+        {
+            "id": "2",
+            "title": "Evolve",
+            "length": "39:12",
+            "recorded": "Imagine Dragons Studio",
+            "label": [
+                "Interscope",
+                "KIDinaKORNER"
+            ],
+            "genre": [
+                "Alternative rock",
+                "Pop Rock",
+                "Synth Rock",
+                "Rock",
+                "Synth Pop",
+                "Pop"
+            ],
+            "released": "June 23, 2017",
+            "producers": [
+                "Alex Da Kid",
+                "Imagine Dragons"
+            ],
+            "tracks": [
+                "I Don't Know Why",
+                "Whatever It Takes",
+                "Believer",
+                "Walking The Wire",
+                "Rise Up",
+                "I'll Make It Up To You",
+                "Yesterday",
+                "Mouth Of The River ",
+                "Thunder",
+                "Start Over",
+                "Dancing In The Dark"
+            ]
+        },
+        {
+            "id": "3",
+            "title": "Orgins",
+            "length": "52:00",
+            "recorded": "Imagine Dragons Studio",
+            "label": [
+                "Interscope",
+                "KIDinaKORNER"
+            ],
+            "genre": [
+                "Alternative Pop",
+                "Pop Rock",
+                "Synth Rock",
+                "Electro Pop",
+                "Synth Pop"
+            ],
+            "released": "November 9, 2018",
+            "producers": [
+                "Alex Da Kid",
+                "Imagine Dragons"
+            ],
+            "tracks": [
+                "Natural",
+                "Boomerang",
+                "Machine",
+                "Cool Out",
+                "Bad Liar",
+                "West Coast",
+                "Zero",
+                "Bullet in a Gun",
+                "Digital",
+                "Only",
+                "Stuck",
+                "Love"
+            ]
+        },
+        {
+            "id": "4",
+            "title": "Mercury Act 1",
+            "length": "45:05",
+            "recorded": "At Home Studios",
+            "label": [
+                "Interscope",
+                "KIDinaKORNER"
+            ],
+            "genre": "Alternative rock",
+            "release": "September 3, 2021",
+            "tracks": [
+                "Enemy",
+                "My Life",
+                "Lonely",
+                "Wrecked",
+                "Monday",
+                "#1",
+                "Easy Come Easy Go",
+                "Giants",
+                "It's Ok",
+                "Dull Knives",
+                "Follow You",
+                "Cutthroat",
+                "No Time For Toxic People",
+                "One Day"
+            ]
+        },
+        {
+            "id": "5",
+            "title": "Mercury Act 2",
+            "length": {
+                "Standard": "54:19",
+                "Deluxe": "57:46"
+            },
+            "recorded": "Battle Born Studios",
+            "label": [
+                "Interscope",
+                "KIDinaKORNER"
+            ],
+            "genre": "Alternative rock",
+            "release": "July 1, 2022",
+            "tracks": [
+                "Bones",
+                "Symphony",
+                "Sharks",
+                "I Don't Like Myself",
+                "Blur",
+                "Higher Ground",
+                "Crushed",
+                "Take It Easy",
+                "Waves",
+                "I'm Happy",
+                "Ferris Wheel",
+                "Peace Of Mind",
+                "Sirens",
+                "Tied",
+                "Younger",
+                "Continual",
+                "They Don't Know You Like I Do"
+            ]
+        },
+        {
+            "id": "6",
+            "title": "Imagine Dragons (EP)",
+            "length": "20:20",
+            "recorded": "Battle Born Studios",
+            "label": "Self-released",
+            "genre": "Alternative rock",
+            "release": "2009-09-01",
+            "tracks": [
+                "I Need A Minute",
+                "Uptight",
+                "Cover Up",
+                "Curse",
+                "Drive",
+                "Hole Inside Our Chests"
+            ]
+        },
+        {
+            "id": "7",
+            "title": "Speak to Me",
+            "length": "17:95",
+            "label": "Self-released",
+            "release": "2008-09-11",
+            "tracks": [
+                "Pistol Whip ",
+                "Living Musical",
+                "The Pit",
+                "Speak To Me",
+                "Boots"
+            ]
+        },
+        {
+            "id": "8",
+            "title": "Hell and Silence",
+            "length": "18:12",
+            "recorded": "Battle Born Studios",
+            "label": "Self-released",
+            "genre": "Alternative rock",
+            "release": "June 1, 2010",
+            "tracks": [
+                "All Eyes",
+                "I Don't Mind",
+                "Hear Me",
+                "Selene",
+                "Emma",
+                "Easy"
+            ]
+        }
+    ]
+}
