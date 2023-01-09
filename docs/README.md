@@ -1,3 +1,7 @@
+---
+coverY: 0
+---
+
 # Introduction
 
 ## Welcome to The ImDragonsAPI Documentation!
