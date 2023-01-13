@@ -28,23 +28,24 @@ Example API Route of "**/imdragons/data/band**".
 https://api.unnecessarylibraries.com/imdragons/data/band
 ```
 ## Documentation 
-```
-Still in Development! 
-Estimated Release: February 2023 (Updated on 1/4/23: On track)
-```
+https://docs.unnecessarylibraries.com/
+
 ## Why?
 **ImDragonsAPI was created primarily to develop new development skills.** I used this project to help develop a better understanding of backend processes. In return, I made a simple-to-use API for anyone to use and learn too.
 You can use this API for any purpose you want. Some examples you can try, are as follows: 
 - A Discord bot that gives Information regarding the band
 - Creating connections with music streaming services like Spotify, Itunes, and Pandora 
 - Making fan-made Wikipedia for front-end learning too
-- **...and So much more. Just use that amazing imagination!**
+
+**...and So much more. Just use that amazing imagination!**
+
 Our main target audience was mainly directed towards developers who were starting to enter the backend world. Creating a simple, easy-to-use library that can help grow upon that entry. We also wanted to provide developers who are Imagine Dragons fans with a better way to obtain all things Imagine Dragons. Giving developers access to any data or information they would ever need about the band.
 
 ## Supported Languages
 The list below includes libraries that are directly supported by the API. Since we just started, we only have one for now. Don't be afraid to assist us by developing your own library, using your programming language of choice! Just check out our contributing policy to learn more about adding your own library!
 Currently Support Languages
 - Javascript: [ImDragons.JS](https://github.com/RobbiDev/imagine-dragons.js)
+
 Libraries Under Development: 
 - Python: (Planned)
 - TypeScript: (Planned)
