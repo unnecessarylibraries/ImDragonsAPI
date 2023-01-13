@@ -5,11 +5,9 @@
   <a href="#links">Links</a> •
   <a href="#credits">Credits</a>
 </p>
+
 # About
-Imagine-Dragons API (or **"ImDragonsAPI"**) creaated on **April 24th, of 2021**. Is a Open API created by [Unnecessary Libraries](https://github.com/unnecessarylibs) that allows for indexing of a massive collection of Data regarding the band **[Imagine Dragons](https://www.imaginedragonsmusic.com/#/)**. Created as a side Project from [RobbiDev](https://github.com/pengyofficial) which is the Creator of Unnecessary Libraries (or **UNLIBs**). Allows for making **HTTPs request** to the API and returning a large amount of JSON data about the band. Data is so Diverse, you can get the littliest of data from about just anything. 
-<!-- ### Usage Example: 
-Complex: lets say you wanted exact lyric at timestamp **2:00** on the song "Believer". YOU CAN! 
-Or lets just say you want something simple. Like "What album did believer release on?" YOU CAN! -->
+Imagine-Dragons API, or "ImDragonsAPI," was created on April 24th, 2021. An open API created by Unnecessary Libraries that allows for instant access to a massive collection of data regarding the band Imagine Dragons! Created as a side project by RobbiDev, it gives developers the power to make HTTP requests to the API, returning a large amount of JSON data about the band.
 
 # The API
 This Section talks about how the API is Orgaznized, and Used. These details can be skipped over. But if your a new Developer learning APIs. I **suggest** you read!
