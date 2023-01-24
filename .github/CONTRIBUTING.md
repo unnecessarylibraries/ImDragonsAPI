@@ -1,5 +1,6 @@
 # Contributing
 
+<!--
 **The issue tracker is only for bug reports and enhancement suggestions. If you have a question, please ask it in the [Discord server](https://discord.gg/djs) instead of opening an issue – you will get redirected there anyway.**
 
 If you wish to contribute to the discord.js codebase or documentation, feel free to fork the repository and submit a
@@ -46,3 +47,4 @@ yarn create-package <package-name> [package-description]
 
 This will create new package directory under `packages/` with the required configuration files. You can
 begin to make changes within the `src/` directory.
+-->
