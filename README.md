@@ -1,6 +1,6 @@
 <p align="center">
   <a href="#gh-light-mode-only">
-    <img src="./src/img/1.png" alt="logo" width="100%" height="auto" />
+    <img src="./src/img/1.png" alt="logo" width="80%" height="auto" />
   </a>
   <a href="#gh-dark-mode-only">
     <img src="./src/img/2.png" alt="logo" width: 100%; height: auto;/>
