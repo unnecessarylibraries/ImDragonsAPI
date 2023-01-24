@@ -1,4 +1,4 @@
-<img src="https://www.canva.com/design/DAEhvIwdqGo/view" alt="logo">
+<img src="https://github.com/unnecessarylibraries/ImDragonsAPI/blob/main/img/header.svg" alt="logo">
 <p align="center">
   <a href="#about">About</a> •
   <a href="#prerequisites">API</a> •
