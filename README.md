@@ -88,11 +88,10 @@ API Route Response in JSON
 | ---------- | ------------ | ------- | ------|
 | Javascript | ImDragons.JS | v1.0.2  | [Click Here](https://github.com/RobbiDev/imagine-dragons.js)|
 
-Want to help exand our supported libraries? Don't be afraid to develop your own library, or contribute to existing libraries. Look at our contributing policy to learn more about adding your own additions!
+Want to help epxand our supported libraries? Don't be afraid to develop your own library, or contribute to existing libraries. Look at our contributing policy to learn more about adding your own additions!
 
 # Links
-- [Github](https://github.com/RobbiDev/imagine-dragons.js)
-- [npm](https://www.npmjs.com/package/imagine-dragons.js)
+- [Github](https://github.com/unnecessarylibraries)
 - [Unnecessary Libraries Discord](https://discord.gg/y8TYje4PXH)
 
 # Credits
