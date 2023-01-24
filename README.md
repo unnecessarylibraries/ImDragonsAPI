@@ -16,7 +16,7 @@
 </p>
 
 # 👋 About
-Created on April 24th, 2021 by Unnecessary Libraries. ImDragonsAPI was created to give fans all in one place for a fast, and constantly updating database of data regarding the band Imagine Dragons. Instantly giving results back after perfecting the codebase. Say goodbye to the pain staking process of copy and pasting Wikis!
+Created on April 24th, 2021 by [Unnecessary Libraries](https://github.com/unnecessarylibraries). ImDragonsAPI was created to give fans all in one place for a fast, and constantly updating database of data regarding the band [Imagine Dragons](https://www.imaginedragonsmusic.com/#/). Instantly giving results back after perfecting the codebase. Say goodbye to the pain staking process of copy and pasting Wikis!
 
 # 💻 The API
 ImDragonsAPI was also designed to be a beginner friendly tool for new asiring developers. A public rest API anyone can use to start gaining skills within backend development. Thats why we developed our database with a very simple to use structure. 
@@ -31,7 +31,9 @@ Examples projects you can try:
 **...and So much more.**
 
 ## Documentation
-https://docs.unnecessarylibraries.com/
+See our dedicated repository for the documentation, or view our documentation website:
+- Documentation Repository
+- Documentation Website
 
 # 🚀 Usage
 There are many different way to use and manipulate our API. Since its a open api, you can access it from about almost anywhere, As long as your enviorment/code supports HTTP requests.
@@ -96,7 +98,7 @@ Want to help epxand our supported libraries? Don't be afraid to develop your own
 
 # Credits
 - [RobbiDev](https://github.com/pengyofficial) - Lead Programmer
-- [Unnecessary Libraries](https://github.com/unnecessarylibs) - Organizer
+- [Unnecessary Libraries](https://github.com/unnecessarylibraries) - Organizer
 - [Imagine Dragons](https://www.imaginedragonsmusic.com/#/) - The Creator of it all
 
 
