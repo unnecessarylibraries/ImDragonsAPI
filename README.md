@@ -1,9 +1,9 @@
 <p align="center">
   <a href="#gh-light-mode-only">
-    <img src="https://github.com/unnecessarylibraries/ImDragonsAPI/blob/main/img/header.svg" alt="logo" width="100%" height="auto" />
+    <img src="./src/img/1.png" alt="logo" width="100%" height="auto" />
   </a>
   <a href="#gh-dark-mode-only">
-    <img src="https://github.com/unnecessarylibraries/ImDragonsAPI/blob/main/img/header.svg" alt="logo" width: 100%; height: auto;/>
+    <img src="./src/img/2.png" alt="logo" width: 100%; height: auto;/>
   </a>
 </p>
 <p align="center">
