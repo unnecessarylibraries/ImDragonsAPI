@@ -1,9 +1,9 @@
 <p align="center">
-  <a href="https://strapi.io/#gh-light-mode-only">
-    <img src="https://github.com/unnecessarylibraries/ImDragonsAPI/blob/main/img/header.svg" width="318px" alt="Strapi logo" />
+  <a href="#gh-light-mode-only">
+    <img src="https://github.com/unnecessarylibraries/ImDragonsAPI/blob/main/img/header.svg" width="318px" alt="logo" />
   </a>
-  <a href="https://strapi.io/#gh-dark-mode-only">
-    <img src="https://github.com/unnecessarylibraries/ImDragonsAPI/blob/main/img/header.svg" width="318px" alt="Strapi logo" />
+  <a href="#gh-dark-mode-only">
+    <img src="https://github.com/unnecessarylibraries/ImDragonsAPI/blob/main/img/header.svg" width="318px" alt="logo" />
   </a>
 </p>
 <p align="center">
