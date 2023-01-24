@@ -1,4 +1,4 @@
-<img src="https://github.com/unnecessarylibs/ImDragonsAPI/blob/main/img/ImDragonsAPI-logo.png" alt="logo">
+<img src="https://www.canva.com/design/DAEhvIwdqGo/view" alt="logo">
 <p align="center">
   <a href="#about">About</a> •
   <a href="#prerequisites">API</a> •
@@ -7,7 +7,7 @@
 </p>
 
 # About
-Imagine-Dragons API, or "ImDragonsAPI," was created on April 24th, 2021. An open API created by Unnecessary Libraries that allows for instant access to a massive collection of data regarding the band Imagine Dragons! Created as a side project by RobbiDev, it gives developers the power to make HTTP requests to the API, returning a large amount of JSON data about the band.
+ImDragonsAPI was created on April 24th, 2021. An REST API created by Unnecessary Libraries that allows for instant access to a massive collection of data regarding the band Imagine Dragons. Created as a side project by RobbiDev, it gives developers the power to make HTTP requests to the API, returning a large amount of JSON data about the band.
 
 # The API
 This Section talks about how the API is Orgaznized, and Used. These details can be skipped over. But if your a new Developer learning APIs. I **suggest** you read!
