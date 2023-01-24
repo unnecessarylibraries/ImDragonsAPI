@@ -1,9 +1,9 @@
 <p align="center">
   <a href="#gh-light-mode-only">
-    <img src="https://github.com/unnecessarylibraries/ImDragonsAPI/blob/main/img/header.svg" width="318px" alt="logo" />
+    <img src="https://github.com/unnecessarylibraries/ImDragonsAPI/blob/main/img/header.svg" alt="logo" />
   </a>
   <a href="#gh-dark-mode-only">
-    <img src="https://github.com/unnecessarylibraries/ImDragonsAPI/blob/main/img/header.svg" width="318px" alt="logo" />
+    <img src="https://github.com/unnecessarylibraries/ImDragonsAPI/blob/main/img/header.svg" alt="logo" />
   </a>
 </p>
 <p align="center">
