@@ -40,47 +40,33 @@ There are many different way to use and manipulate our API. Since its a open api
 
 Main API Endpoint
 ```
-https://api.unnecessarylibraries.com/imdragons/v1
+https://api.unnecessarylibraries.com/imdragons/v1/public
 ```
-Example API Route of "**/collection/info/band**". 
+Example API Route of "**/public/band/details**". 
 ```
-https://api.unnecessarylibraries.com/imdragons/v1/collection/info/band
+https://api.unnecessarylibraries.com/imdragons/v1/public/band/details
 ```
 
 API Route Response in JSON
 ```json
 {
-  "BAND_INFO": {
-    "details": {
-      "origin": "Las Vegas, Nevada, United States",
-      "genres": [
-        "Alternative rock",
-        "Indie rock",
-        "Electronic rock"
-      ],
-      "labels": [
-        "Interscope Records",
-        "KIDinaKORNER"
-      ],
-      "members": [
-        "Daniel Samardžić",
-        "Dan Reynolds",
-        "Ben McKee",
-        "Wayne Sermon",
-        "Daniel Platzman"
-      ]
-    },
-    "socialmedia": {
-      "twitter": "https://twitter.com/Imaginedragons",
-      "youtube": "https://www.youtube.com/channel/UCpx_k19S2vUutWUUM9qmXEg",
-      "apple": "https://music.apple.com/us/artist/imagine-dragons/358714030",
-      "spotify": "https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q",
-      "instagram": "https://www.instagram.com/imaginedragons/",
-      "website": "https://www.imaginedragonsmusic.com/",
-      "facebook": "https://www.facebook.com/ImagineDragons/",
-      "email": "https://www.imaginedragonsmusic.com/#mailing-list"
-    }
-  }
+  "origin": "Las Vegas, Nevada, United States",
+  "genres": [
+    "Alternative rock",
+    "Indie rock",
+    "Electronic rock"
+  ],
+  "labels": [
+    "Interscope Records",
+    "KIDinaKORNER"
+  ],
+  "members": [
+    "Daniel Samardžić",
+    "Dan Reynolds",
+    "Ben McKee",
+    "Wayne Sermon",
+    "Daniel Platzman"
+  ]
 }
 ```
 
