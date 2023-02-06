@@ -37,9 +37,9 @@ Main API Route
 ```
 https://api.unnecessarylibraries.com/imdragons/v1/public
 ```
-Example of the ```/public/info``` endpoint.
+Example of the ```/public/band``` endpoint.
 ```
-https://api.unnecessarylibraries.com/imdragons/v1/public/band/details
+https://api.unnecessarylibraries.com/imdragons/v1/public/band
 ```
 
 API Route Response in JSON
