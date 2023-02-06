@@ -30,19 +30,14 @@ Examples projects you can try:
 
 **...and So much more.**
 
-## Documentation
-See our dedicated website for our documentation, or you can view our documentation files:
-- [Website](https://docs.unnecessarylibraries.com/)
-- [Files](https://github.com/unnecessarylibraries/ImDragonsAPI/tree/main/docs)
-
 # 🚀 Usage
 There are many different way to use and manipulate our API. Since its a open api, you can access it from about almost anywhere, As long as your enviorment/code supports HTTP requests.
 
-Main API Endpoint
+Main API Route
 ```
 https://api.unnecessarylibraries.com/imdragons/v1
 ```
-Example API Route of "**/collection/info/band**". 
+Example of the ```/public/info``` endpoint.
 ```
 https://api.unnecessarylibraries.com/imdragons/v1/collection/info/band
 ```
@@ -83,6 +78,11 @@ API Route Response in JSON
   }
 }
 ```
+
+## Documentation
+See our dedicated website for our documentation, or you can view our documentation files:
+- [Website](https://docs.unnecessarylibraries.com/)
+- [Files](https://github.com/unnecessarylibraries/ImDragonsAPI/tree/main/docs)
 
 ## Supported Languages
 
