@@ -45,23 +45,37 @@ https://api.unnecessarylibraries.com/imdragons/v1/public/band
 API Route Response in JSON
 ```json
 {
-  "origin": "Las Vegas, Nevada, United States",
-  "genres": [
-    "Alternative rock",
-    "Indie rock",
-    "Electronic rock"
-  ],
-  "labels": [
-    "Interscope Records",
-    "KIDinaKORNER"
-  ],
-  "members": [
-    "Daniel Samardžić",
-    "Dan Reynolds",
-    "Ben McKee",
-    "Wayne Sermon",
-    "Daniel Platzman"
-  ]
+  "BAND_INFO": {
+    "details": {
+      "origin": "Las Vegas, Nevada, United States",
+      "genres": [
+        "Alternative rock",
+        "Indie rock",
+        "Electronic rock"
+      ],
+      "labels": [
+        "Interscope Records",
+        "KIDinaKORNER"
+      ],
+      "members": [
+        "Daniel Samardžić",
+        "Dan Reynolds",
+        "Ben McKee",
+        "Wayne Sermon",
+        "Daniel Platzman"
+      ]
+    },
+    "socials": {
+      "twitter": "https://twitter.com/Imaginedragons",
+      "youtube": "https://www.youtube.com/channel/UCpx_k19S2vUutWUUM9qmXEg",
+      "apple": "https://music.apple.com/us/artist/imagine-dragons/358714030",
+      "spotify": "https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q",
+      "instagram": "https://www.instagram.com/imaginedragons/",
+      "website": "https://www.imaginedragonsmusic.com/",
+      "facebook": "https://www.facebook.com/ImagineDragons/",
+      "email": "https://www.imaginedragonsmusic.com/#mailing-list"
+    }
+  }
 }
 ```
 
