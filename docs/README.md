@@ -10,3 +10,17 @@
 </p>
 
 # 💻 Official Documenetation
+
+## Outline
+
+🚀 Getting Started 
+  - [Introduction](https://github.com/unnecessarylibraries/ImDragonsAPI/blob/main/docs/getting-started/introduction.md)
+  - [Quick Start Guide](https://github.com/unnecessarylibraries/ImDragonsAPI/blob/main/docs/getting-started/quick-start-guide.md)
+  
+💻 Developer Resources
+- Change log
+- API References
+  - [album](https://github.com/unnecessarylibraries/ImDragonsAPI/blob/main/docs/getting-started/quick-start-guide.md)
+  - band
+- Versions
+
