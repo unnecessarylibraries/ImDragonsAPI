@@ -16,17 +16,17 @@
 </p>
 
 # 👋 About
-Created on April 24th, 2021 by [Unnecessary Libraries](https://github.com/unnecessarylibraries). ImDragonsAPI was created to give fans all in one place for a fast, and constantly updating database of data regarding the band [Imagine Dragons](https://www.imaginedragonsmusic.com/#/). Instantly giving results back after perfecting the codebase. Say goodbye to the pain staking process of copy and pasting Wikis!
+Created on April 24th, 2021 by [Unnecessary Libraries](https://github.com/unnecessarylibraries). ImDragonsAPI was created to give fans an all in one place for a fast, and constantly updating database of data regarding the band [Imagine Dragons](https://www.imaginedragonsmusic.com/#/). Instantly giving results back after perfecting the codebase. Say goodbye to the painstaking process of copy and pasting Wikis!
 
 # 💻 The API
-ImDragonsAPI was also designed to be a beginner friendly tool for new asiring developers. A public rest API anyone can use to start gaining skills within backend development. Thats why we developed our database with a very simple to use structure. 
+ImDragonsAPI was also designed to be a beginner friendly tool for new aspiring developers. A public rest API anyone can use to start gaining skills within backend development. Thats why we developed our database with a very simple to use structure. 
 
 Examples projects you can try:
 - Making a Discord Data bot that gives Information regarding the band
 - Twitter bot that Tweets out upcoming band Events
 - Imagine Dragons news website
 - Retrieving music streaming services data with the API
-- Creating a Imagine Dragons Theme Website to learn front-end and Back-end integration
+- Creating an Imagine Dragons Theme Website to learn front-end and Back-end integration
 
 **...and So much more.**
 
@@ -90,7 +90,7 @@ See our dedicated website for our documentation, or you can view our documentati
 | ---------- | ------------ | ------- | ------|
 | Javascript | ImDragons.JS | v1.0.2  | [Click Here](https://github.com/RobbiDev/imagine-dragons.js)|
 
-Want to help epxand our supported libraries? Don't be afraid to develop your own library, or contribute to existing libraries. Look at our contributing policy to learn more about adding your own additions!
+Want to help expand our supported libraries? Don't be afraid to develop your own library, or contribute to existing libraries. Look at our contributing policy to learn more about adding your own additions!
 
 # Links
 - [Github](https://github.com/unnecessarylibraries)
