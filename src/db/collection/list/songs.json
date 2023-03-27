@@ -1,16 +1,114 @@
 {
-        "thunder": {
+    "SONG_LIST": [
+        {
             "id": 0,
-            "title": "Thunder",
-            "duration": "3:07",
-            "links": {
-                "spotify": "https://open.spotify.com/album/1lMKmArXUO3zfLtKUfNqqX?highlight=spotify:track:7MumXNbXgu7UWcWXX4shnO",
-                "youtube": "https://www.youtube.com/watch?v=fKopy74weus",
-                "apple": "https://music.apple.com/us/album/thunder/1411625594?i=1411629089"
-            },
-            "lyrics": "",
+            "title": "Believer",
+            "duration": "3:24",
+            "link": "https://www.youtube.com/watch?v=7wtfhZwyrcc",
+            "lyrics": "First things first\nI'ma say all the words inside my head\nI'm fired up and tired of\nThe way that things have been, oh-ooh\nThe way that things have been, oh-ooh\nSecond thing second\nDon't you tell me what you think that I can be\nI'm the one at the sail, I'm the master of my sea, oh-ooh\nThe master of my sea, oh-ooh\nI was broken from a young age\nTaking my sulking to the masses\nWriting my poems for the few\nThat look at me, took to me, shook to me, feeling me\nSinging from heartache from the pain\nTaking my message from the veins\nSpeaking my lesson from the brain\nSeeing the beauty through the\nPain\n...",
             "album": "Evolve",
-            "genre": "Pop-rock",
-            "released": "April 27, 2017"
+            "genre": "Pop rock",
+            "release_date": "2017-02-01"
+        },
+        {
+            "id": 1,
+            "title": "Thunder",
+            "duration": "3:08",
+            "link": "https://www.youtube.com/watch?v=fKopy74weus",
+            "lyrics": "Just a young gun with a quick fuse\nI was uptight, wanna let loose\nI was dreaming of bigger things\nAnd wanna leave my own life behind\nNot a yes-sir, not a follower\nFit the box, fit the mold\nHave a seat in the foyer, take a number\nI was lightning before the thunder\nThunder, thunder\nThunder, thun', thunder\nThun-thun-thunder, thunder, thunder\nThunder, thun', thunder\nThun-thun-thunder, thunder\nThunder, feel the thunder\nLightning then the thunder\nThunder, feel the thunder\nLightning then the thunder\nThunder, thunder\nThunder...",
+            "album": "Evolve",
+            "genre": "Pop rock",
+            "release_date": "2017-04-27"
+        },
+        {
+            "id": 2,
+            "title": "I Don't Know Why",
+            "duration": "3:10",
+            "link": "https://www.youtube.com/watch?v=9RvRtzTdq0s",
+            "lyrics": "We could be strangers in the night\nWe could be passing in the shadows\nWe couldn't be closer if we tried\nWhen we're caught in the headlights\nWe could be faces in the crowd\nWe could be passing in the shadows\nWe couldn't be closer if we tried\nWhen we're caught in the headlights\n\nI don't know why, I don't know why\nI don't know why, I don't know why\nI don't know why, I don't know why\nI don't know why, I don't know why\n\nYou say that we'll just screw it up\nBut I don't wanna screw this up\nI don't wanna crash and burn\nI just wanna find some love\n\nI don't know why, I don't know why\nI don't know why, I don't know why\nI don't know why, I don't know why\nI don't know why, I don't know why\n\nI just wanna find some love\nI just wanna find some love\n\nWe could be strangers in the night\nWe could be passing in the shadows\nWe couldn't be closer if we tried\nWhen we're caught in the headlights\n\nI don't know why, I don't know why\nI don't know why, I don't know why\nI don't know why, I don't know why\nI don't know why, I don't know why\n\nYou say that we'll just screw it up\nBut I don't wanna screw this up\nI don't wanna crash and burn\nI just wanna find some love\n\nI don't know why, I don't know why\nI don't know why, I don't know why\nI don't know why, I don't know why\nI don't know why, I don't know why\n\nI just wanna find some love\nI just wanna find some love",
+            "album": "Evolve",
+            "genre": "Pop rock",
+            "release_date": "2017-06-23"
+        },
+        {
+            "id": 3,
+            "title": "Whatever It Takes",
+            "duration": "3:21",
+            "link": "https://www.youtube.com/watch?v=gOsM-DYAEhY",
+            "lyrics": "Falling too fast to prepare for this\nTripping in the world could be dangerous\nEverybody circling, it's vulturous\nNegative, nepotist\nEverybody waiting for the fall of man\nEverybody praying for the end of times\nEverybody hoping they could be the one\nI was born to run, I was born for this\n\nWhip, whip\nRun me like a racehorse\nPull me like a ripcord\nBreak me down and build me up\nI wanna be the slip, slip\nWord upon your lip, lip\nLetter that you rip, rip\nBreak me down and build me up\n\nWhatever it takes\n'Cause I love the adrenaline in my veins\nI do whatever it takes\n'Cause I love how it feels when I break the chains\nWhatever it takes\nYou take me to the top, I'm ready for\nWhatever it takes\n'Cause I love the adrenaline in my veins\nI do what it takes\n\nAlways had a fear of being typical\nLooking at my body feeling miserable\nAlways hanging on to the visual\nI wanna be invisible\nLooking at my years like a martyrdom\nEverybody needs to be a part of them\nNever be enough, I'm the prodigal son\nI was born to run, I was born for this\n\nWhip, whip\nRun me like a racehorse\nPull me like a ripcord\nBreak me down and build me up\nI wanna be the slip, slip\nWord upon your lip, lip\nLetter that you rip, rip\nBreak me down and build me up\n\nWhatever it takes\n'Cause I love the adrenaline in my veins\nI do whatever it takes\n'Cause I love how it feels when I break the chains\nWhatever it takes\nYou take me to the top, I'm ready for\nWhatever it takes\n'Cause I love the adrenaline in my veins\nI do what it takes\n\nHypocritical, egotistical\nDon't wanna be the parenthetical, hypothetical\nWorking onto something that I'm proud of, out of the box\nAn epoxy to the world and the vision we've lost\nI'm an apostrophe\nI'm just a symbol to remind you that there's more to see\nI'm just a product of the system, a catastrophe\nAnd yet a masterpiece, and yet I'm half-diseased\nAnd when I am deceased\nLeave the body and my soul to be a part of thee\nI do what it takes",
+            "album": "Evolve",
+            "genre": "Pop rock",
+            "release_date": "2017-05-08"
+        },
+        {
+            "id": 4,
+            "title": "Walking the Wire",
+            "duration": "3:52",
+            "link": "https://www.youtube.com/watch?v=3WESV8LjB6Y",
+            "lyrics": "Do you feel the same when I'm away from you?\nDo you know the line that I'd walk for you?\nWe could turn around and we could give it up\nBut we'll take what comes, take what comes\n\nOh, the storm is raging against us now\nIf you're afraid of falling, then don't look down\nBut we took the step, and we took the leap\nAnd we'll take what comes, take what comes\n\nFeel the wind in your hair\nFeel the rush way up here\nWe're walking the wire, love\nWe're walking the wire, love\n\nWe're gonna be higher, up\nWe're walking the wire, wire, wire\n\nThere's nights we had that just walk away\nAnd there's tears we'll cry, but those tears will fade\nIt's the price we pay when it comes to love\nAnd we'll take what comes, take what comes\n\nOh, the storm is raging against us now\nIf you're afraid of falling, then don't look down\nBut we took the step, and we took the leap\nAnd we'll take what comes, take what comes\n\nFeel the wind in your hair\nFeel the rush way up here\nWe're walking the wire, love\nWe're walking the wire, love\n\nWe're gonna be higher, up\nWe're walking the wire, wire, wire\n\nThe wire, the wire\n\nThis is the time that we'll divide\nOur hearts collide, and I won't be denied\nThe wire, the wire\n\n(This is the time that we'll divide)\n(Our hearts collide, and I won't be denied)\n\nFeel the wind in your hair\nFeel the rush way up here\nWe're walking the wire, love\nWe're walking the wire, love\n\nWe're gonna be higher, up\nWe're walking the wire, wire, wire",
+            "album": "Evolve",
+            "genre": "Pop rock",
+            "release_date": "2017-05-08"
+        },
+        {
+            "id": 5,
+            "title": "Rise Up",
+            "duration": "3:51",
+            "link": "https://www.youtube.com/watch?v=bJSdMDY12Vw",
+            "lyrics": "I was hoping for an indication\nI was seeking higher elevation\n(Aye, aye, aye)\nOh but no, no, no, no\nYou ain't gonna find it\nAye, no, no, no, no\n\nI was looking for a complication\nBut all I found was a...Sweet sensation\nAye, aye, aye\n\nTired of the talking, baby, let's just do this right\nDon't think you're good enough, well, baby, that's just a lie\nYeah, we can do it if we try\n\nIf only then, only then\nIf only then, only then\nIf only then, we...No, no, we don't need permission\nNo, we'll never be what they envision\n(Aye, aye, aye)\nWe can do it if we try\n\nTired of the talking, baby, let's just do this right\nIf you want a good life, well, honey, we gotta rise, aye\nRise up above all the noise\nRise up and make your choice\nOh, rise up\n\nDon't you know you're not the only one?\nDon't you know you're not the only one?\nIf you love yourself, then you'll find the one\nIf you love yourself, rise, rise, rise\n\nTired of the talking, baby, let's just do this right\nIf you want a good life, well, honey, we gotta rise, aye\nRise up above all the noise\nRise up and make your choice\nOh, rise up",
+            "album": "Evolve",
+            "genre": "Pop rock",
+            "release_date": "2017-05-08"
+        },
+        {
+            "id": 6,
+            "title": "I'll Make It Up To You",
+            "duration": "4:22",
+            "link": "https://www.youtube.com/watch?v=16GPI9jJ9qc",
+            "lyrics": "I'll make it up to you, I'll make it up to you\nI'll make it up to you, I'll make it up to you\n\nWaiting on a Sunday afternoon\nFor what I read between the lines,\nYour lies\nFeelin' like a hand in rusted shame\nSo do you laugh or does it cry?\nReply?\n\nLeavin' on a southern train\nOnly yesterday you lied,\nPromises of what I seemed to be\nOnly watched the time go by,\nAll of these things you said to me\n\nBreathin' is the hardest thing to do\nWith all I've said and all that's dead for you,\nYou lied\nGoodbye, so I'll appease you\nTearin' us apart until it's all erased,\nYou lied\nGoodbye, so I'll appease you\n\nMake it up to you, make it up to you\nI'll make it up to you, I'll make it up to you\nMake it up to you, make it up to you\nI'll make it up to you, I'll make it up to you\n\nLeavin' on a southern train\nOnly yesterday you lied,\nPromises of what I seemed to be\nOnly watched the time go by,\nAll of these things I said to you\n\nI'll make it up to you, I'll make it up to you\nI'll make it up to you, I'll make it up to you",
+            "album": "Evolve",
+            "genre": "Pop rock",
+            "release_date": "2017-06-23"
+        },
+        {
+            "id": 7,
+            "title": "Yesterday",
+            "duration": "3:23",
+            "link": "https://www.youtube.com/watch?v=gOsM-DYAEhY",
+            "lyrics": "Here's to my future\nHere's to my yesterday\nHere's to change\nOh, here's to my yesterday\nNo tomorrow without a yesterday\nHere's to my future\nGoodbye to yesterday\nAll these years I've been searching\nFor who I'm supposed to be\nAll this time I've been wasting\n'Cause I was right in front of me\nOh, it's a crooked old tradition\nBy a masterful magician\nBut in all this trouble I've met\nI haven't got one single regret, no\nHere's to my future\nHere's to my yesterday\nHere's to change\nOh, here's to my yesterday\nNo tomorrow without a yesterday\nHere's to my future\nGoodbye to yesterday\nAll these years I've been searching\nFor who I'm supposed to be\nAll this time I've been wasting\n'Cause I was right in front of me\nOh, I'm a little insane\nBut I swear that I'll come around\nFinally found what I was searching for\nFound a life worth living for\nHere's to my future\nHere's to my yesterday\nHere's to change\nOh, here's to my yesterday\nNo tomorrow without a yesterday\nHere's to my future\nGoodbye to yesterday\nGoodbye to yesterday\nGoodbye to yesterday\nGoodbye to yesterday",
+            "album": "Evolve",
+            "genre": "Pop rock",
+            "release_date": "2017-05-08"
+        },
+        {
+            "id": 8,
+            "title": "Mouth of the River",
+            "duration": "3:43",
+            "link": "https://www.youtube.com/watch?v=_k65kObWJHQ",
+            "lyrics": "I'm from the deep, where the streets are wet\n(Run for cover)\nThey say it ain't easy but it ain't over yet\n(That's why I'm runnin')\nYeah, I'm runnin'\nJust to keep my head above the rain\nI'll never let it get me down\nI'll never let it drown me out\n\n(Whatever it takes)\n'Cause I love the adrenaline in my veins\nI do whatever it takes\n'Cause I love how it feels when I break the chains\nWhatever it takes\n\nYa take me to the top, I'm ready for\nWhatever it takes\n'Cause I love the adrenaline in my veins\nI do what it takes\n\nAlways had a fear of being typical\nLooking at my body feeling miserable\nAlways hanging on to the visual\nI wanna be invisible\nLooking at my years like a martyrdom\nEverybody needs to be a part of them\nNever be enough, I'm the prodigal son\nI was born to run, I was born for this\n\n(Whatever it takes)\n'Cause I love the adrenaline in my veins\nI do whatever it takes\n'Cause I love how it feels when I break the chains\nWhatever it takes\n\nYa take me to the top, I'm ready for\nWhatever it takes\n'Cause I love the adrenaline in my veins\nI do what it takes\n\nHypocritical, egotistical\nDon't wanna be the parenthetical, hypothetical\nWorking onto something that I'm proud of, out of the box\nAn epoxy to the world and the vision we've lost\n\nI'm an apostrophe\nI'm just a symbol to remind you that there's more to see\nI'm just a product of the system, a catastrophe\nAnd yet a masterpiece, and yet I'm half-diseased\nAnd when I am deceased\nAt least I'll go down to the grave and die happily\nAnd leave the body and my soul to be a part of thee\nI do what it takes",
+            "album": "Evolve",
+            "genre": "Pop rock",
+            "release_date": "2017-06-23"
+        },
+        {
+            "id": 9,
+            "title": "Start Over",
+            "duration": "3:07",
+            "link": "https://www.youtube.com/watch?v=gOsM-DYAEhY",
+            "lyrics": "I was a liar, I gave into the fire\nI know I should've fought it at least I'm being honest\nFeels like a lifetime since I last felt whole\nNow I'm lost, I'm incomplete and I don't know where to go\n\nI wanna start it over\nI wanna start again\nI want a new beginning\nOne without an ending\nI feel it inside, calling out to me\n\nIt's a voice that whispers my name\nIt's a kiss without any shame\nSomething beautiful, like a song that stirs and fades\n\nI wanna start it over\nI wanna start again\nI want a new beginning\nOne without an ending\n\nI'm not giving up, I'm just giving in\nI'm slipping underneath\nSo cold and so sweet\n\nIn the dark, I can hear your heartbeat\nI tried to find the sound\nBut then it stopped, and I was in the darkness\nSo darkness I became\n\nI wanna start it over\nI wanna start again\nI want a new beginning\nOne without an ending\n\nI'm not giving up, I'm just giving in\nI'm slipping underneath\nSo cold and so sweet\n\nI wanna start it over\nI wanna start again\nI want a new beginning\nOne without an ending",
+            "album": "Evolve",
+            "genre": "Pop rock",
+            "release_date": "2017-06-23"
+        },
+        {
+            "id": 10,
+            "title": "Dancing in the Dark",
+            "duration": "3:53",
+            "link": "https://www.youtube.com/watch?v=SIe3bqFfi5k",
+            "lyrics": "Don't throw my name 'round here like that\r\nYou could get us in some trouble\r\nTalking that way and\r\nMonday you got me, that's a fact\r\nYou could get me in some trouble\r\nTalking that way and\r\nI don't need nobody\r\nIf you ever wanna join me\r\nBaby, I'll be dancing in the dark\r\nIf you ever wanna join me\r\nBaby, I'll be dancing in the dark\r\nDancing in the\r\nJoin me\r\nDancing in the\r\nJoin me baby\r\nDancing in the\r\nJoin me baby\r\nMost days I'm keeping to myself\r\nLiving in my little bubble\r\nThrowing my weight and moving\r\nMy body through the sea\r\nYou could come join with me\r\nMoving like the weekend\r\nI don't need nobody\r\nIf you ever wanna join me\r\nBaby, I'll be dancing in the dark\r\nIf you ever wanna join me\r\nBaby, I'll be dancing in the dark\r\nDancing in the\r\nJoin me\r\nDancing in the\r\nJoin me baby\r\nDancing in the\r\nJoin me baby\r\nDancing in the\r\nJoin me baby\r\nIf you ever wanna join me\r\nBaby, I'll be dancing in the dark\r\nDancing in the\r\nJoin me baby\r\nIf you ever wanna join me (Baby)\r\nBaby, I'll be dancing in the dark\r\n(Baby)\r\nDancing in the\r\n(Baby)",
+            "album": "Evolve",
+            "genre": "Pop rock",
+            "release_date": "2017-06-23"
         }
+    ]
 }
